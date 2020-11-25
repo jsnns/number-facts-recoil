@@ -1,0 +1,17 @@
+.Input-Group {
+  display: flex;
+  flex-direction: column;
+  min-width: 130px;
+}
+
+.Input-Field {
+  box-sizing: border-box;
+  height: 32px;
+  line-height: 25px;
+  border-radius: 3px;
+  border-color: rgba(0, 0, 0, 0);
+}
+
+.Input-Label {
+  margin-right: 12px;
+}

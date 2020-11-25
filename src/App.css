@@ -1,0 +1,26 @@
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-Container h3 {
+  margin: 0;
+  color: grey;
+}
+
+.App-Input-Container {
+  width: fit-content;
+  flex-direction: row;
+  display: flex;
+}
+
+.App-Body-Container {
+  width: 75vw;
+  height: 100px;
+}
